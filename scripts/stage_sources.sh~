@@ -1,5 +1,0 @@
-#! /bin/bash
-cd linux;
-rm -rf .git*;
-make clean;
-cd ..;
